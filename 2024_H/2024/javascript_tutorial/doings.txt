@@ -1,8 +1,0 @@
-The coding classroom
-
-set up code editor
--download visual studio code
-
-linking a javascript file
--downloaded starter code from a github repo
--https://github.com/jonasschmedtmann/complete-javascript-course
